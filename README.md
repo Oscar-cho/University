@@ -1,2 +1,3 @@
 # University
-University Code
+
+About Data Structure and Algorithms / Machine Learning
